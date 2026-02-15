@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-<title>Profile – Sara Lawrence</title>
+<title>Profile – Srinivasan Packirisamy</title>
 
 <style>
 :root {
@@ -157,8 +157,8 @@ a:hover {
   <div class="header">
     <img class="avatar" src="https://via.placeholder.com/150" alt="Profile"/>
     <div>
-      <div class="name">Sara Lawrence</div>
-      <div class="meta">Design in San Francisco · <a href="#">website.com</a></div>
+      <div class="name">Srinivasan Packirisamy</div>
+      <div class="meta">Software Engineer in India · <a href="#">srinivasan.com</a></div>
     </div>
   </div>
 
@@ -178,32 +178,23 @@ a:hover {
     <div class="timeline-item">
       <div class="year">2017 — Now</div>
       <div>
-        <div class="item-title">Senior Designer at Magic Design Co ↗</div>
-        <div class="item-sub">San Francisco, CA</div>
+        <div class="item-title">Manager at Cognizant ↗</div>
+        <div class="item-sub">Chennai, India</div>
       </div>
     </div>
 
     <div class="timeline-item">
       <div class="year">2015 — 2017</div>
       <div>
-        <div class="item-title">Junior Designer at Creative Co ↗</div>
-        <div class="item-sub">Atlanta, GA</div>
+        <div class="item-title">Senior Software Engineer at Plintron↗</div>
+        <div class="item-sub">Chennai, India</div>
       </div>
     </div>
-
     <div class="timeline-item">
-      <div class="year">2014 — 2015</div>
+      <div class="year">2009 — 2014</div>
       <div>
-        <div class="item-title">Intern at Design Hub ↗</div>
-        <div class="item-sub">Atlanta, GA</div>
-      </div>
-    </div>
-
-    <div class="timeline-item">
-      <div class="year">2012 — 2014</div>
-      <div>
-        <div class="item-title">Freelance Graphic Designer ↗</div>
-        <div class="item-sub">Remote</div>
+        <div class="item-title">Software Engineer at ShipNet↗</div>
+        <div class="item-sub">Chennai, India</div>
       </div>
     </div>
   </div>
@@ -227,12 +218,6 @@ a:hover {
         </div>
       </div>
     </div>
-
-    <div class="timeline-item">
-      <div class="year">2020</div>
-      <div class="item-title">The Art of User-Centered Design ↗</div>
-    </div>
-
     <div class="timeline-item">
       <div class="year">2018</div>
       <div class="item-title">The Power of Visual Storytelling ↗</div>
@@ -246,14 +231,9 @@ a:hover {
     <div class="timeline-item">
       <div class="year">2024</div>
       <div>
-        <div class="item-title">Designing for accessibility ↗</div>
-        <div class="item-sub">Los Angeles, CA</div>
+        <div class="item-title">---↗</div>
+        <div class="item-sub">---</div>
       </div>
-    </div>
-
-    <div class="timeline-item">
-      <div class="year">2023</div>
-      <div class="item-title">Designing your career ↗</div>
     </div>
   </div>
 
@@ -263,13 +243,8 @@ a:hover {
 
     <div class="timeline-item">
       <div class="year">2021</div>
-      <div class="item-title">Nature walks ↗</div>
-    </div>
-
-    <div class="timeline-item">
-      <div class="year">2019</div>
-      <div class="item-title">Interactive art installation ↗</div>
-    </div>
+      <div class="item-title">---- ↗</div>
+    </div>  
   </div>
 
   <!-- Education -->
@@ -279,16 +254,8 @@ a:hover {
     <div class="timeline-item">
       <div class="year">2010</div>
       <div>
-        <div class="item-title">Master’s in Interaction Design</div>
-        <div class="item-sub">Georgia Tech · Atlanta, GA</div>
-      </div>
-    </div>
-
-    <div class="timeline-item">
-      <div class="year">2006 — 2010</div>
-      <div>
-        <div class="item-title">Bachelor’s in Communication Design</div>
-        <div class="item-sub">University of Cincinnati</div>
+        <div class="item-title">Master of Computer Application</div>
+        <div class="item-sub">Anna University, Chennai, India</div>
       </div>
     </div>
   </div>
