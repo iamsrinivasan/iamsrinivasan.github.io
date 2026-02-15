@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
@@ -155,7 +154,7 @@ a:hover {
 
   <!-- Header -->
   <div class="header">
-    <img class="avatar" src="https://via.placeholder.com/150" alt="Profile"/>
+    <img class="avatar" src="https://media.licdn.com/dms/image/v2/C4D03AQHE7uWnsM6jww/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1653917188067?e=1772668800&v=beta&t=KZ9FrD3xei_WAfPRp7_mHQZBW6MsaUVEIwGCK2JAJgg" alt="Profile"/>
     <div>
       <div class="name">Srinivasan Packirisamy</div>
       <div class="meta">Software Engineer in India · <a href="#">srinivasan.com</a></div>
